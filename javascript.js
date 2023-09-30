@@ -27,6 +27,7 @@ console.log(e);
 x = 2; y = 3;
 
 z = x + y;
+console.log(z);
 
 // 1.5 Assignment: Brackets, Braces and Parentheses
 var a = function() {
