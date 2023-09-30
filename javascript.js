@@ -43,7 +43,7 @@ var s = true //boolean
 console.log(s);
 
 // 1.7 Assignment: Practicing JavaScript basics
-var areaThatPerformsCalculation;
+var areaThatPerformsTheCalculation;
 var a = 3;
 var b = 4;
 var c = 5;
