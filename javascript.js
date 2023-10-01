@@ -24,10 +24,11 @@ var e; //undefined//
 console.log(e);
 
 // 1.4 Assignment: Complete your statements
-x = 2; y = 3;
+var x = 2; 
+var y = 3;
 
-z = x + y;
-console.log(z);
+var result = x + y;
+console.log(result);
 
 // 1.5 Assignment: Brackets, Braces and Parentheses
 var a = function() {
